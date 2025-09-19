@@ -133,9 +133,9 @@ Comprehensive cybersecurity utilities and scripts for ethical hacking
 <tr>
 <td width="50%">
 
-### 🌐 [WWWScope](https://github.com/shadowdevnotreal/WWWScope)
-Archive, compare, and sync web history with ease
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🧑‍🎓 [BowTied-Cyber-AI-Ecosystem](https://github.com/shadowdevnotreal/BowTied-Cyber-AI-Ecosystem)
+Architecting the Future of Cybersecurity Education
+![Career Development](https://img.shields.io/badge/Career-Development-4ecdc4?style=flat-square&logo=trending-up&logoColor=white)
 
 </td>
 <td width="50%">
