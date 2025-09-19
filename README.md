@@ -1,4 +1,4 @@
-# 👋 Welcome to the Shadows
+# 👋 Welcome to the Shadows 😼
 
 <div align="center">
   
@@ -109,17 +109,47 @@ me.say_hi()
 
 ---
 
-## 🏆 Featured Repositories
-
 <div align="center">
 
-[![Universal Testing Engine](https://github-readme-stats.vercel.app/api/pin/?username=shadowdevnotreal&repo=Universal-Testing-Engine&theme=tokyonight&hide_border=true)](https://github.com/shadowdevnotreal/Universal-Testing-Engine)
-[![PRCM-ASRL](https://github-readme-stats.vercel.app/api/pin/?username=shadowdevnotreal&repo=PRCM-ASRL&theme=tokyonight&hide_border=true)](https://github.com/shadowdevnotreal/prcm-asrl)
+## 🏆 Featured Projects
 
-[![WWWScope](https://github-readme-stats.vercel.app/api/pin/?username=shadowdevnotreal&repo=WWWScope&theme=tokyonight&hide_border=true)](https://github.com/shadowdevnotreal/WWWScope)
-[![Ombudsman](https://github-readme-stats.vercel.app/api/pin/?username=shadowdevnotreal&repo=ombudsman&theme=tokyonight&hide_border=true)](https://github.com/shadowdevnotreal/ombudsman)
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ [Universal Testing Engine](https://github.com/shadowdevnotreal/Universal-Testing-Engine)
+Advanced Adaptive Assessment Platform with Integrated IT Professional Assessment
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🔧 [CyberSec ToolKit](https://github.com/shadowdevnotreal/CyberSecToolKit)  
+Comprehensive cybersecurity utilities and scripts for ethical hacking
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 [WWWScope](https://github.com/shadowdevnotreal/WWWScope)
+Archive, compare, and sync web history with ease
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%">
+
+### ⚖️ [Ombudsman](https://github.com/shadowdevnotreal/ombudsman)
+Organizational chart showing corporate ombudsman structure  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
+
 
 ---
 
