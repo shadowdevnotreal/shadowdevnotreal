@@ -102,9 +102,15 @@ me.say_hi()
 </div>
 
 <div align="center">
-  
+
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shadowdevnotreal&theme=tokyonight&hide_border=true)
-  
+
+</div>
+
+<div align="center">
+
+  ![Repobeats Analytics](https://repobeats.axiom.co/api/embed/9c93ac041f938f643ed3ce4062140bfd9a1cb20a.svg "Repobeats analytics image")
+
 </div>
 
 ---
