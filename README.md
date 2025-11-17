@@ -95,10 +95,16 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shadowdevnotreal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+<div align="center">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadowdevnotreal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowdevnotreal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  
+
 </div>
 
 <div align="center">
@@ -110,6 +116,12 @@ me.say_hi()
 <div align="center">
 
   ![Repobeats Analytics](https://repobeats.axiom.co/api/embed/9c93ac041f938f643ed3ce4062140bfd9a1cb20a.svg "Repobeats analytics image")
+
+</div>
+
+<div align="center">
+
+  ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
