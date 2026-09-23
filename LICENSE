@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 CatHat
+Copyright (c) 2025-2026 DIATASSO LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+This MIT License covers the source code and content of this repository. It
+does not extend to trademark rights. DIATASSO is a Tennessee-registered
+service mark, TM062328. The DIATASSO name, mark, logos, and any other brand
+identifiers of DIATASSO LLC referenced in this repository are not licensed
+for use under MIT.

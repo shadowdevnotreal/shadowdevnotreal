@@ -227,3 +227,13 @@ XSS vulnerability detection toolkit
   ⭐️ From [ShadowDev](https://github.com/shadowdevnotreal) | Made with 💜, lots of ☕, and 25+ years of IT wisdom
   
 </div>
+
+---
+
+<div align="center">
+
+**Created and maintained by DIATASSO LLC**
+
+<sub>This repository's content is MIT-licensed (see [LICENSE](LICENSE)). DIATASSO is a Tennessee-registered service mark, TM062328. The DIATASSO name, mark, and related brand identifiers are not licensed under MIT.</sub>
+
+</div>
