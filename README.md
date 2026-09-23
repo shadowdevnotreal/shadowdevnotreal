@@ -136,14 +136,7 @@ Architecting the Future of Cybersecurity Education
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### ⚖️ [Ombudsman](https://github.com/shadowdevnotreal/ombudsman)
-Organizational chart showing corporate ombudsman structure  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-<td width="50%">
+<td width="100%" colspan="2">
 
 ### 🤝 [XSSRocket](https://github.com/shadowdevnotreal/XSSRocket)
 XSS vulnerability detection toolkit
@@ -171,15 +164,15 @@ XSS vulnerability detection toolkit
 ## 🤖 AI Projects & Custom GPTs
 
 ### 🎨 Creative AI Tools
-- **[Clan Render](https://chatgpt.com/g/g-68ac0cbf9a9c8191be631440c2a3cfe8-clan-render)** - Transforms portraits into hybrid animal-clan illustrations
+- **[Clan Render](https://github.com/shadowdevnotreal/clan-render)** - Transforms portraits into hybrid animal-clan illustrations
 
 ### 🛡️ Security & Assessment
-- **[Cyber Gauntlet Bot](https://chatgpt.com/g/g-681f26522b2081919a4e8750aaa11fb5-cyber-gauntlet-bot)** - Interactive cybersecurity challenge arena
+- **[Cyber Gauntlet Bot](https://github.com/shadowdevnotreal/cyber-gauntlet)** - Interactive cybersecurity challenge arena
 
 ### 💙 Life and Mental Health
-- **[Dr. HOPE - Whistleblower Counselor](https://chatgpt.com/g/g-6832658d75988191a6a6572573bf3122-dr-hope-whistleblower-assessment-counselor)** - Specialized psychological assessment for whistleblowing scenarios
-- **[Custody Life Coach](https://chatgpt.com/g/g-686509eec914819181e27d26d6a35742-custody-life-coach)** - Legal and emotional guidance system
-- **[REPAIR Protocol Support Bot](https://chatgpt.com/g/g-685f7ec1cae4819183b514fdeff27b43-repair-protocol-support-bot)** - Cognitive/emotional system mapping and support
+- **[Dr. HOPE - Whistleblower Counselor](https://github.com/shadowdevnotreal/dr-hope)** - Specialized psychological assessment for whistleblowing scenarios
+- **[Custody Life Coach](https://github.com/shadowdevnotreal/custody-life-coach)** - Legal and emotional guidance system
+- **[REPAIR Protocol Support Bot](https://github.com/shadowdevnotreal/DISCERN-Protocol)** - Cognitive/emotional system mapping and support
 
 ---
 
