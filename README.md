@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![ShadowDev](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=9d50bb&center=true&vCenter=true&width=435&lines=I'm+ShadowDev;Script+Kitty;IT+Consultant;25%2B+Years+Experience;Microsoft+SME)
+  ![ShadowDev](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=9d50bb&center=true&vCenter=true&width=435&lines=I'm+ShadowDev;Script+Kitty;IT+Consultant;25%2B+Years+Experience;Microsoft+SME)
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-shadowdevnotreal.github.io-blueviolet?style=for-the-badge&logo=github-pages)](https://shadowdevnotreal.github.io)
   [![GitHub followers](https://img.shields.io/github/followers/shadowdevnotreal?style=for-the-badge&logo=github&color=9d50bb)](https://github.com/shadowdevnotreal)
@@ -109,7 +109,7 @@ me.say_hi()
 
 <div align="center">
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shadowdevnotreal&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=shadowdevnotreal&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -135,20 +135,11 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🛡️ [Universal Testing Engine](https://github.com/shadowdevnotreal/Universal-Testing-Engine)
-Advanced Adaptive Assessment Platform with Integrated IT Professional Assessment
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-<td width="50%">
-
 ### 🔧 [CyberSec ToolKit](https://github.com/shadowdevnotreal/CyberSecToolKit)  
 Comprehensive cybersecurity utilities and scripts for ethical hacking
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🧑‍🎓 [BowTied-Cyber-AI-Ecosystem](https://github.com/shadowdevnotreal/BowTied-Cyber-AI-Ecosystem)
@@ -156,11 +147,20 @@ Architecting the Future of Cybersecurity Education
 ![Career Development](https://img.shields.io/badge/Career-Development-4ecdc4?style=flat-square&logo=trending-up&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### ⚖️ [Ombudsman](https://github.com/shadowdevnotreal/ombudsman)
 Organizational chart showing corporate ombudsman structure  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🤝 [XSSRocket](https://github.com/shadowdevnotreal/XSSRocket)
+XSS vulnerability detection toolkit
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -178,9 +178,6 @@ Organizational chart showing corporate ombudsman structure
 ### 🤝 Open Source Contributions
 - **[XSSRocket](https://github.com/shadowdevnotreal/XSSRocket)** - XSS vulnerability detection toolkit
 - **[ScopeHunter](https://github.com/blackhatethicalhacking/ScopeHunter)** - Bug bounty scope analysis tool
-
-### 📡 OSINT & Reconnaissance  
-- **[WWWScope](https://github.com/shadowdevnotreal/WWWScope)** - Web application security analysis tool
 
 ---
 
@@ -201,65 +198,3 @@ Organizational chart showing corporate ombudsman structure
 - **[REPAIR Protocol Support Bot](https://chatgpt.com/g/g-685f7ec1cae4819183b514fdeff27b43-repair-protocol-support-bot)** - Cognitive/emotional system mapping and support
 
 ---
-
-## 💼 Professional Experience Highlights
-
-- **25+ Years** in IT Consulting & Systems Administration
-- **Microsoft Subject Matter Expert** (FastTrack EM+S | Compliance)
-- **Enterprise Security Specialist** - Azure, M365, compliance frameworks
-- **Remote Leadership** - Cross-functional team management and consulting
-- **Automation Engineer** - Python, PowerShell, and AI-driven workflow optimization
-- **Social Engineering Specialist** - Advanced OSINT and security assessment
-
-### 🎓 Key Certifications
-- Microsoft FastTrack EM+S Specialist
-- CompTIA A+ Certified
-- Sophos Certified Engineer  
-- Fortinet NSE 2 Network Security Associate
-- Advanced Practical Social Engineering
-- Six Sigma White Belt
-- Cradlepoint Certified Network Associate
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-blueviolet?style=for-the-badge)](https://shadowdevnotreal.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/shadowdevnotreal)
-[![Email](https://img.shields.io/badge/GitHub_Email-Get_In_Touch-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:43219706+shadowdevnotreal@users.noreply.github.com)
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shadowdevnotreal&bg_color=1a1b27&color=9d50bb&line=9d50bb&point=fff&area=true&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-  
-  ### 🎭 *"Automate the mundane, secure the critical, innovate the future"*
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=shadowdevnotreal&color=blueviolet&style=flat-square&label=Profile+Views)
-  
-  ⭐️ From [ShadowDev](https://github.com/shadowdevnotreal) | Made with 💜, lots of ☕, and 25+ years of IT wisdom
-  
-</div>
