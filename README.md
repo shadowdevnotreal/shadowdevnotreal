@@ -182,3 +182,55 @@ XSS vulnerability detection toolkit
 - **[REPAIR Protocol Support Bot](https://chatgpt.com/g/g-685f7ec1cae4819183b514fdeff27b43-repair-protocol-support-bot)** - Cognitive/emotional system mapping and support
 
 ---
+
+## 💼 Professional Experience Highlights
+
+- **25+ Years** in IT Consulting & Systems Administration
+- **Microsoft Subject Matter Expert** (FastTrack EM+S | Compliance)
+- **Enterprise Security Specialist** - Azure, M365, compliance frameworks
+- **Remote Leadership** - Cross-functional team management and consulting
+- **Automation Engineer** - Python, PowerShell, and AI-driven workflow optimization
+- **Social Engineering Specialist** - Advanced OSINT and security assessment
+
+### 🎓 Key Certifications
+- Microsoft FastTrack EM+S Specialist
+- CompTIA A+ Certified
+- Sophos Certified Engineer  
+- Fortinet NSE 2 Network Security Associate
+- Advanced Practical Social Engineering
+- Six Sigma White Belt
+- Cradlepoint Certified Network Associate
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-blueviolet?style=for-the-badge)](https://shadowdevnotreal.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/shadowdevnotreal)
+[![Email](https://img.shields.io/badge/GitHub_Email-Get_In_Touch-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:43219706+shadowdevnotreal@users.noreply.github.com)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🎭 *"Automate the mundane, secure the critical, innovate the future"*
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=shadowdevnotreal&color=blueviolet&style=flat-square&label=Profile+Views)
+  
+  ⭐️ From [ShadowDev](https://github.com/shadowdevnotreal) | Made with 💜, lots of ☕, and 25+ years of IT wisdom
+  
+</div>
