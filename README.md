@@ -96,19 +96,6 @@ me.say_hi()
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shadowdevnotreal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadowdevnotreal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowdevnotreal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
   ![GitHub Streak](https://streak-stats.demolab.com/?user=shadowdevnotreal&theme=tokyonight&hide_border=true)
 
 </div>
@@ -188,9 +175,6 @@ XSS vulnerability detection toolkit
 
 ### 🛡️ Security & Assessment
 - **[Cyber Gauntlet Bot](https://chatgpt.com/g/g-681f26522b2081919a4e8750aaa11fb5-cyber-gauntlet-bot)** - Interactive cybersecurity challenge arena
-
-### 📚 Educational & Consulting
-- **[BowTiedCyber Bootcamp Guide](https://chatgpt.com/g/g-6833c1ec235881919ce84a0356c201f3-bowtiedcyber-bootcamp-guide)** - Cybersecurity education and training assistant
 
 ### 💙 Life and Mental Health
 - **[Dr. HOPE - Whistleblower Counselor](https://chatgpt.com/g/g-6832658d75988191a6a6572573bf3122-dr-hope-whistleblower-assessment-counselor)** - Specialized psychological assessment for whistleblowing scenarios
