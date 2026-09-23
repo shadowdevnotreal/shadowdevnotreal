@@ -232,6 +232,10 @@ XSS vulnerability detection toolkit
 
 <div align="center">
 
+<a href="https://github.com/shadowdevnotreal" title="DIATASSO LLC">
+  <img src="assets/diatasso-mark.svg" alt="DIATASSO LLC service mark" width="72"/>
+</a>
+
 **Created and maintained by DIATASSO LLC**
 
 <sub>This repository's content is MIT-licensed (see [LICENSE](LICENSE)). DIATASSO is a Tennessee-registered service mark, TM062328. The DIATASSO name, mark, and related brand identifiers are not licensed under MIT.</sub>
