@@ -238,6 +238,10 @@ XSS vulnerability detection toolkit
 
 *IT Consultant, Automation Engineer, and Security Researcher*
 
+**Created and maintained by DIATASSO LLC**
+
+This repository's content is MIT-licensed (see [LICENSE](LICENSE)). DIATASSO is a Tennessee-registered service mark, TM062328. The DIATASSO name, mark, and related brand identifiers are not licensed under MIT. See [Branding](BRANDING.md) and [Trademarks](TRADEMARKS.md).
+
 ---
 
 ### ⭐ Star this profile if it helped you!
@@ -248,11 +252,5 @@ XSS vulnerability detection toolkit
 **Made with 💜 by the DIATASSO Team**
 
 <a href="https://www.buymeacoffee.com/diatasso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
----
-
-**Created and maintained by DIATASSO LLC**
-
-This repository's content is MIT-licensed (see [LICENSE](LICENSE)). DIATASSO is a Tennessee-registered service mark, TM062328. The DIATASSO name, mark, and related brand identifiers are not licensed under MIT. See [Branding](BRANDING.md) and [Trademarks](TRADEMARKS.md).
 
 </div>
