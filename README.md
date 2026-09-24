@@ -232,12 +232,27 @@ XSS vulnerability detection toolkit
 
 <div align="center">
 
-<a href="https://github.com/shadowdevnotreal" title="DIATASSO LLC">
-  <img src="assets/diatasso-mark.svg" alt="DIATASSO LLC service mark" width="72"/>
-</a>
+<img src="assets/diatasso-mark.svg" alt="DIATASSO LLC service mark" width="120"/>
+
+### 👋 A DIATASSO LLC profile
+
+*IT Consultant, Automation Engineer, and Security Researcher*
+
+---
+
+### ⭐ Star this profile if it helped you!
+
+[![GitHub Stars](https://img.shields.io/github/stars/shadowdevnotreal/shadowdevnotreal?style=social)](https://github.com/shadowdevnotreal/shadowdevnotreal/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/shadowdevnotreal/shadowdevnotreal?style=social)](https://github.com/shadowdevnotreal/shadowdevnotreal/network)
+
+**Made with 💜 by the DIATASSO Team**
+
+<a href="https://www.buymeacoffee.com/diatasso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+---
 
 **Created and maintained by DIATASSO LLC**
 
-<sub>This repository's content is MIT-licensed (see [LICENSE](LICENSE)). DIATASSO is a Tennessee-registered service mark, TM062328. The DIATASSO name, mark, and related brand identifiers are not licensed under MIT.</sub>
+This repository's content is MIT-licensed (see [LICENSE](LICENSE)). DIATASSO is a Tennessee-registered service mark, TM062328. The DIATASSO name, mark, and related brand identifiers are not licensed under MIT. See [Branding](BRANDING.md) and [Trademarks](TRADEMARKS.md).
 
 </div>
