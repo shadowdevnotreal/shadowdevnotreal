@@ -135,15 +135,6 @@ Architecting the Future of Cybersecurity Education
 
 </td>
 </tr>
-<tr>
-<td width="100%" colspan="2">
-
-### 🤝 [XSSRocket](https://github.com/shadowdevnotreal/XSSRocket)
-XSS vulnerability detection toolkit
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
 </table>
 
 </div>
@@ -156,7 +147,7 @@ XSS vulnerability detection toolkit
 - **[Recall Hard Off Helper](https://github.com/shadowdevnotreal/Recall-Hard-Off-Helper)** - Windows privacy and security automation
 
 ### 🤝 Open Source Contributions
-- **[XSSRocket](https://github.com/shadowdevnotreal/XSSRocket)** - XSS vulnerability detection toolkit
+- **[XSSRocket](https://github.com/blackhatethicalhacking/XSSRocket)** - XSS vulnerability detection toolkit
 - **[ScopeHunter](https://github.com/blackhatethicalhacking/ScopeHunter)** - Bug bounty scope analysis tool
 
 ---
